@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Palindrom</string>
+    <string name="palindrom">Palindrom?</string>
+    <string name="eingabe_string">Eingabe String:</string>
+    <string name="btnCheck">Check String</string>
+    <string name="txtInput"><![CDATA[String>=5 Zeichen]]></string>
+    <string name="lblError" />
+</resources>
